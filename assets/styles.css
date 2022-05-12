@@ -334,6 +334,12 @@ footer ul li a {
             display: block;
             margin: 3px 18px -1px -17px;
         }
+        .image_overlay{
+            
+        width: 111%;
+        margin: 2px 5.5px 4px -34px;
+        padding:auto;
+        }
     }
     @media screen and (max-width: 575px) {
         footer {
@@ -346,5 +352,9 @@ footer ul li a {
             display: block;
             margin: 3px 18px -3px -50px;
         }
-       
+       .image_overlay {
+           width: 155%;
+           margin:7px -25px 23px -49px;
+           
+       }
     }
