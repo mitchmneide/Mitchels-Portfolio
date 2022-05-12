@@ -18,6 +18,9 @@ https://mitchmneide.github.io/Mitchels-Portfolio/
 In this code you'll be able to go to desired links,adjust screen based on your media screen. 
 ![Page](assets/images/portfolio.gif)
 
+## References 
+[Youtube-DCODE](https://www.youtube.com/watch?v=exb2ab72Xhs) 
+[Code Greeper](https://www.codegrepper.com/code-examples/css/how+to+remove+white+space+in+the+right+side+of+web+page)
 
 ## License & Copyright 
 © Mitchel J Eide, Coding Bootcamp
