@@ -21,6 +21,6 @@ In this code you'll be able to go to desired links,adjust screen based on your m
 ## References 
 * [Youtube-DCODE](https://www.youtube.com/watch?v=exb2ab72Xhs) 
 * [Code Greeper](https://www.codegrepper.com/code-examples/css/how+to+remove+white+space+in+the+right+side+of+web+page)
-
+* [W3Schools](https://www.w3schools.com/howto/howto_css_glowing_text.asp)
 ## License & Copyright 
 © Mitchel J Eide, Coding Bootcamp
